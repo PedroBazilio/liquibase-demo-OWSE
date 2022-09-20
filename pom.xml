@@ -18,6 +18,7 @@
 
     <pluginRepositories>
         <!-- jhipster-needle-maven-plugin-repository -->
+
     </pluginRepositories>
 
     <!-- jhipster-needle-distribution-management -->
